@@ -1,0 +1,34 @@
+{
+  "colegio": {
+    "title": "Sobre el Colegio",
+    "source": "https://coitic.es/el-coitic/"
+  },
+  "ingenieria": {
+    "title": "La Ingeniería Informática",
+    "source": "https://coitic.es/la-ingenieria-informatica/"
+  },
+  "preguntas": {
+    "title": "Preguntas frecuentes",
+    "source": "https://coitic.es/el-coitic/preguntas-frecuentes/"
+  },
+  "gobierno": {
+    "title": "Junta de Gobierno y Comisiones de Trabajo",
+    "source": "https://coitic.es/informacion-en-materia-organizativa/"
+  },
+  "ley": {
+    "title": "Ley de Creación",
+    "source": "https://coitic.es/el-coitic/ley-de-creacion/"
+  },
+  "estatutos": {
+    "title": "Estatutos",
+    "source": "https://coitic.es/el-coitic/estatutos/"
+  },
+  "deontologia": {
+    "title": "Código Deontológico",
+    "source": "https://coitic.es/el-coitic/codigo-deontologico/"
+  },
+  "colegiados": {
+    "title": "Relación de colegiados",
+    "source": "https://coitic.es/relacion-de-colegiados/"
+  }
+}
