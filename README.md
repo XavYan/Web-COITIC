@@ -63,3 +63,11 @@ Para preparar una copia de publicación independiente: `python3 scripts/prepare.
 ## Diseño y accesibilidad
 
 Diseño adaptable a móviles, navegación por teclado, foco visible, enlace para saltar al contenido, preguntas desplegables, búsqueda, estados de error y ordenación accesible del directorio. Los textos Markdown pasan por una lista restrictiva de elementos y URL antes de insertarse en la página. No se permiten scripts ni HTML activo.
+
+## Avisos legales y banner de cookies
+
+Los textos completos de `aviso-legal`, `politica-de-privacidad` y `politica-de-cookies` se encuentran en `content/pages/` y se consultan dentro de la web desde el pie de página. Proceden de coitic.es y se incorporaron el 26/10/2026, conservando sus datos de contacto y referencias originales. La política de cookies incluye un bloque separado que describe el funcionamiento de esta versión estática.
+
+El banner es informativo: esta versión no integra herramientas de analítica, publicidad ni contenido incrustado de terceros. No presenta un consentimiento ficticio para servicios inexistentes. «Entendido» y «Guardar y cerrar» guardan exclusivamente el recordatorio `coitic:cookie-notice:v1` en localStorage, con versión y caducidad a los 180 días. No se envía a ningún servidor. «Configurar cookies» permite revisar esta información, borrar el recordatorio y volver a mostrar el aviso. Al cerrar el diálogo o pulsar Escape no se guarda nada. Si el navegador bloquea localStorage, funciona durante esa sesión y puede reaparecer al recargar.
+
+La lógica está en `assets/cookies.js`. Si se incorporan servicios opcionales en el futuro, habrá que añadir un control real de consentimiento que bloquee su carga hasta que se acepten, revisar los textos y cambiar la versión del aviso. El banner actual no controla scripts opcionales añadidos posteriormente.

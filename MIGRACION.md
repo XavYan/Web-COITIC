@@ -32,3 +32,7 @@ Se preservan los textos publicados, incluidas sus fechas de actualización y ref
 ## Colegiados
 
 169 registros públicos y 9 columnas trasladados a `content/colegiados.md`.
+
+## Ampliación legal · 26/10/2026
+
+Se incorporan íntegramente los textos del aviso legal, la política de privacidad y la política de cookies de las páginas homónimas de coitic.es, incluidas sus tablas y enlaces. Se conservan las denominaciones, datos de contacto y referencias del original. La política de cookies añade, en un bloque separado, información técnica de esta versión estática y del almacenamiento local del aviso.

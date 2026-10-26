@@ -30,5 +30,20 @@
   "colegiados": {
     "title": "Relación de colegiados",
     "source": "https://coitic.es/relacion-de-colegiados/"
+  },
+  "aviso-legal": {
+    "title": "Aviso legal",
+    "source": "https://coitic.es/aviso-legal/",
+    "migrated_at": "26 de octubre de 2026"
+  },
+  "politica-de-privacidad": {
+    "title": "Política de privacidad",
+    "source": "https://coitic.es/politica-de-privacidad/",
+    "migrated_at": "26 de octubre de 2026"
+  },
+  "politica-de-cookies": {
+    "title": "Política de cookies",
+    "source": "https://coitic.es/politica-de-cookies/",
+    "migrated_at": "26 de octubre de 2026"
   }
 }
