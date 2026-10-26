@@ -15,7 +15,6 @@ Puede buscar por cualquier columna y ordenar los resultados seleccionando su enc
 | GUSTAVO | NAVAS | SÁNCHEZ | 22 | IT | Perito | Gran Canaria |  | gnavas7@gmail.com |
 | Mª ESTHER | TORRES | MEDINA | 23 | IT |  |  |  |  |
 | JUSTO FERNANDO | MONTESDEOCA | RAMIREZ | 28 | IT |  |  |  |  |
-| JAVIER | SANTANA | ALMEIDA | 32 | IT |  |  |  |  |
 | JUAN DE LOS ÁNGELES | CAMPOS | SÁNCHEZ | 35 | IT |  |  |  |  |
 | JOSÉ MIGUEL | NÚÑEZ | PEREYRA | 36 | IT |  |  |  |  |
 | OCTAVIO | DOMÍNGUEZ | ARTEAGA | 37 | IT |  |  |  |  |
